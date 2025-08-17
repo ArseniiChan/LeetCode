@@ -1,7 +1,7 @@
 # LeetCode 75 – Progress Tracker
 
 ## Array / String
-- [ ] Merge Strings Alternately
+- [x] Merge Strings Alternately ✅ **COMPLETED** - Two pointers pattern
 - [ ] Greatest Common Divisor of Strings
 - [ ] Kids With the Greatest Number of Candies
 - [ ] Can Place Flowers
