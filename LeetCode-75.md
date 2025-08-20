@@ -3,7 +3,7 @@
 ## Array / String
 - [x] Merge Strings Alternately ✅ **COMPLETED** - Two pointers pattern
 - [x] Greatest Common Divisor of Strings ✅ **COMPLETED**
-- [ ] Kids With the Greatest Number of Candies
+- [x] Kids With the Greatest Number of Candies ✅ **COMPLETED**
 - [ ] Can Place Flowers
 - [ ] Reverse Vowels of a String
 - [ ] Reverse Words in a String
