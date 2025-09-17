@@ -5,7 +5,7 @@
 - [x] Greatest Common Divisor of Strings ✅ **COMPLETED**
 - [x] Kids With the Greatest Number of Candies ✅ **COMPLETED**
 - [x] Can Place Flowers ✅ **COMPLETED**
-- [ ] Reverse Vowels of a String
+- [x] Reverse Vowels of a String ✅ **COMPLETED**
 - [ ] Reverse Words in a String
 - [ ] Product of Array Except Self
 - [ ] Increasing Triplet Subsequence
