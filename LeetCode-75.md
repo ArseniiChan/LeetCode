@@ -7,7 +7,7 @@
 - [x] Can Place Flowers ✅ **COMPLETED**
 - [x] Reverse Vowels of a String ✅ **COMPLETED**
 - [x] Reverse Words in a String ✅ **COMPLETED**
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self ✅ **COMPLETED**
 - [ ] Increasing Triplet Subsequence
 - [ ] String Compression
 
