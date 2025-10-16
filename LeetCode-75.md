@@ -8,7 +8,7 @@
 - [x] Reverse Vowels of a String ✅ **COMPLETED**
 - [x] Reverse Words in a String ✅ **COMPLETED**
 - [x] Product of Array Except Self ✅ **COMPLETED**
-- [ ] Increasing Triplet Subsequence
+- [x] Increasing Triplet Subsequence ✅ **COMPLETED**
 - [ ] String Compression
 
 ## Two Pointers
