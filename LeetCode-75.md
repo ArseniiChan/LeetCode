@@ -9,7 +9,7 @@
 - [x] Reverse Words in a String ✅ **COMPLETED**
 - [x] Product of Array Except Self ✅ **COMPLETED**
 - [x] Increasing Triplet Subsequence ✅ **COMPLETED**
-- [ ] String Compression
+- [x] String Compression ✅ **COMPLETED**
 
 ## Two Pointers
 - [ ] Move Zeroes
