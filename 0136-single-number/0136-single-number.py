@@ -1,14 +1,13 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        freq = {}
-        for n in nums:
-            if n in freq:
-                freq[n] += 1
+        nums.sort()
+        i = 0
+        if len(nums) == 1:
+            return nums[0] 
+        while i < len(nums) - 1:
+            if nums[i] == nums[i + 1]:
+                i += 2
             else:
-                freq[n] = 1
-        for n, count in freq.items():
-            if count == 1:
-                return n    
-            
-
+                return nums[i] 
+        return nums[-1]
         
