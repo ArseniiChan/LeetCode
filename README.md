@@ -32,3 +32,19 @@ Algorithm and data structure practice in **Python** with documented solutions an
 ## ✅ Progress
 Tracking progress in [`LeetCode-75.md`](./LeetCode-75.md).  
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/ArseniiChan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/ArseniiChan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/ArseniiChan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+<!---LeetCode Topics End-->
