@@ -43,6 +43,7 @@ Tracking progress in [`LeetCode-75.md`](./LeetCode-75.md).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ArseniiChan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [2469-convert-the-temperature](https://github.com/ArseniiChan/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
