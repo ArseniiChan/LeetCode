@@ -38,6 +38,7 @@ Tracking progress in [`LeetCode-75.md`](./LeetCode-75.md).
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ArseniiChan/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/ArseniiChan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ Tracking progress in [`LeetCode-75.md`](./LeetCode-75.md).
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ArseniiChan/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/ArseniiChan/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArseniiChan/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
