@@ -44,12 +44,14 @@ Tracking progress in [`LeetCode-75.md`](./LeetCode-75.md).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ArseniiChan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0412-fizz-buzz](https://github.com/ArseniiChan/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [2469-convert-the-temperature](https://github.com/ArseniiChan/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ArseniiChan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0125-valid-palindrome](https://github.com/ArseniiChan/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0412-fizz-buzz](https://github.com/ArseniiChan/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +69,8 @@ Tracking progress in [`LeetCode-75.md`](./LeetCode-75.md).
 | ------- | ------- |
 | [0015-3sum](https://github.com/ArseniiChan/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArseniiChan/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/ArseniiChan/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
